@@ -5,7 +5,7 @@ import lombok.Getter;
 
 @Getter
 @Builder
-public class FindPlaceByIdRs {
+public class FindPlaceByAddressRs {
     private Long id;
     private String name;
     private String address;
