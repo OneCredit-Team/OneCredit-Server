@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Database Config ###
+!**/src/main/java/onecredict/onecredictserver/config/
